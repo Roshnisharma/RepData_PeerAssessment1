@@ -1,12 +1,13 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: html_document
+output: md_document
+  
 ---
 
 ##*Roshni Sharma*
 ###*12 Dec 2016*
 
-```{r setup, include=FALSE}
+```{r }
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
